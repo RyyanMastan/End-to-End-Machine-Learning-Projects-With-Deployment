@@ -1,1 +1,2 @@
-
+This is a simple machine learning project that predicts the age of marriage depending upon features such as - age,gender,caste,height etc.
+This is my first deploment project and therefore i have focused more on learning the deployment part and not done a lot of model tuning and feature engineering.
